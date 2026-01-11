@@ -25,3 +25,5 @@ customers to browse items by category, view food images, and place orders easily
 
 💡 Key Insight:
 Designing for restaurants is not just about visuals — it’s about reducing waiting time, avoiding confusion, and giving users control without overwhelming them.
+
+Casestudy : https://www.behance.net/gallery/241872787/Digital-Restaurant-Menu
